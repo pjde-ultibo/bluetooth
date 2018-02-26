@@ -1,7 +1,7 @@
 # bluetooth
 Expanded bluetooth for Ultibo
 
-Initial UART version. USB version to follow.
+Initial UART and USB versions
 
 Note that both versions are still very much works in progress.
 
